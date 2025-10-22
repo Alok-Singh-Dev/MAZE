@@ -1,0 +1,2 @@
+# MAZE
+A simple maze
